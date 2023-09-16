@@ -1,3 +1,3 @@
 # Hi there!
 ## Im Andrew Napoleone
-```cowsay -- "Hi There~!"```
+```cowsay "Hi There~!"```
